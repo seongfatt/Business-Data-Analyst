@@ -1,6 +1,3 @@
-[# Business-Data-Analyst
-My Learning Journey at BDA 
-](https://github.com/seongfatt/Business-Data-Analyst/blob/main/IU%203.3.7%20PowerBI%20Technical%20Test%20Prep/Dashboard.jpg)
 ## 🎓 BCG Rise Business Data Analyst Learning Journey
 
 <p align="center">
