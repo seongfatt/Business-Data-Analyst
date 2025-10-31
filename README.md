@@ -41,7 +41,7 @@ This experience taught me how to connect **data analytics** with **business stra
 ### 📊 Power BI Dashboard Showcase
 
 <p align="center">
-  <img src="https://github.com/seongfatt/Business-Data-Analyst/blob/main/IU%203.3.7%20PowerBI%20Technical%20Test%20Prep/Dashboard.jpg" alt="Power BI Dashboard Preview" width="800"/>
+  <img src="https://github.com/seongfatt/Business-Data-Analyst/blob/main/PowerBI%20Technical%20Practice1/Dashboard.jpg" alt="Power BI Dashboard Preview" width="800"/>
   <br>
   <em>Sample Dashboard from Capstone Project – Built during BCG Rise learning journey</em>
 </p>
